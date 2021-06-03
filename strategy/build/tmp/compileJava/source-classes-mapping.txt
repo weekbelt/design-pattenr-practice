@@ -21,19 +21,27 @@ me/weekbelt/observer/WeatherType.java
  me.weekbelt.observer.WeatherType
 me/weekbelt/observer/Hobbits.java
  me.weekbelt.observer.Hobbits
-me/weekbelt/observer/generic/Race.java
- me.weekbelt.observer.generic.Race
+me/weekbelt/observer/Orcs.java
+ me.weekbelt.observer.Orcs
 me/weekbelt/observer/generic/Observer.java
  me.weekbelt.observer.generic.Observer
 me/weekbelt/observer/generic/GWeather.java
  me.weekbelt.observer.generic.GWeather
-me/weekbelt/observer/generic/GOrcs.java
- me.weekbelt.observer.generic.GOrcs
-me/weekbelt/observer/Orcs.java
- me.weekbelt.observer.Orcs
 me/weekbelt/observer/Weather.java
  me.weekbelt.observer.Weather
+me/weekbelt/decorator/ClubbedTroll.java
+ me.weekbelt.decorator.ClubbedTroll
+me/weekbelt/decorator/SimpleTroll.java
+ me.weekbelt.decorator.SimpleTroll
+me/weekbelt/observer/generic/Race.java
+ me.weekbelt.observer.generic.Race
+me/weekbelt/decorator/Troll.java
+ me.weekbelt.decorator.Troll
+me/weekbelt/observer/generic/GOrcs.java
+ me.weekbelt.observer.generic.GOrcs
 me/weekbelt/observer/generic/GHobbits.java
  me.weekbelt.observer.generic.GHobbits
+me/weekbelt/decorator/App.java
+ me.weekbelt.decorator.App
 me/weekbelt/observer/App.java
  me.weekbelt.observer.App
